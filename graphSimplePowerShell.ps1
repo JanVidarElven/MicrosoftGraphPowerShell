@@ -16,5 +16,3 @@ $response = Invoke-RestMethod -Method Get -Uri $resourceUri -Headers @{"Authoriz
 
 # Getting items from response value
 $response.value
-
-
