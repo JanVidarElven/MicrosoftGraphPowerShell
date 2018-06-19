@@ -1,4 +1,4 @@
-# ELEU2017
+# Microsoft Graph PowerShell
 Jan Vidar Elven's Demo and Script Repository for Microsoft Graph with PowerShell
 
 ## Blog Details
